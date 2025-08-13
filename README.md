@@ -4,8 +4,8 @@ Porjeto de uma calculadora usando *Java* onde o usuário escolher a operação d
 
 
 # Operações que realiza 
-Somar dois números
-Subtrair dois números
-Multiplicar dois números
-Dividir dois números (com verificação de divisão por zero)
+-Somar dois números
+-Subtrair dois números
+-Multiplicar dois números
+-Dividir dois números (com verificação de divisão por zero)
 
